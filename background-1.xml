@@ -7,6 +7,7 @@
     <minute>00</minute>
     <second>00</second>
   </starttime>
+
 <!-- This animation will start at midnight. -->
   <static>
     <duration>600.0</duration>
